@@ -20,7 +20,7 @@ pkg install nano
 
 #### Setelah itu git clone repository yang kalian gunakan
 ```
-git clone 
+git clone https://github.com/Hunxploit04/webspoof.git
 ```
 
 lalu masuk ke dalam directory **webspoof**
